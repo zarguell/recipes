@@ -1,0 +1,4 @@
+# Shopping List
+# Format: path<TAB>name<TAB>scale
+
+2025-12-05-arugula-fennel-salad-with-lemon-honey-dressing.cook	Arugula fennel salad with lemon honey dressing	1
