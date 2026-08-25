@@ -25,10 +25,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout recipes repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Checkout template repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           repository: zarguell/cooklang-recipes
           ref: main
